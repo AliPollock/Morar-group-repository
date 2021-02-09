@@ -1,0 +1,24 @@
+We want to develop a time booking system that can allow logged-in users to:
+
+1. Register Projects and Tasks.
+2. Have user roles (Admin or time booker).
+3. Admins can assign users to projects or tasks.
+4. Any assigned user can book time periods against the project or task with notes (on what was
+done) plus the start time and end time of the time booked.
+5. Users should have to login and only be allowed to book to project or tasks they have been
+assigned to.
+6. The system should allow web and mobile access. A disconnected mobile app would be an
+interesting addition.
+
+Questions for the customer:
+
+Can admins book time periods? 
+Can admins assign themselves to projects?  
+What is the relation between time booker and admin? Is there certain projects/tasks only for time bookers? 
+What are time periods? 
+What are projects/ tasks? Are tasks components of a project? 
+Who is the time booking system for? Are we to come up with our own scenario? 
+Is the mobile app an “must have”? 
+Is there any other type of user? 
+
+ 
