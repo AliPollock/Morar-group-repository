@@ -12,13 +12,31 @@ interesting addition.
 
 Questions for the customer:
 
-Can admins book time periods? 
-Can admins assign themselves to projects?  
-What is the relation between time booker and admin? Is there certain projects/tasks only for time bookers? 
-What are time periods? 
-What are projects/ tasks? Are tasks components of a project? 
-Who is the time booking system for? Are we to come up with our own scenario? 
-Is the mobile app an “must have”? 
+Can admins book time periods?
+Admins can modify the booking - they can move/approve/ book time bookings
+
+Can admins assign themselves to projects?
+No
+Multiple admins can assign users to the same project
+
+
+What is the relation between time booker and admin? Is there certain projects/tasks only for time bookers?
+Create a first admin (superadmin) that cannot be deleted and can create admin users
+
+What are time periods?
+Time periods are logs of work done on a project to calculate what to charge for a project/task
+
+What are projects/ tasks? 
+Tasks are components of projects - projects can have multiple tasks that can be assigned to different users
+
+Who is the time booking system for? Are we to come up with our own scenario?
+
+
+Is the mobile app an “must have”?
+
+
 Is there any other type of user? 
+No 
+Keep it as one billing rate for timebooker users
 
  
